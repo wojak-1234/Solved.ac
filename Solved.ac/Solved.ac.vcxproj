@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="EXEfounder.cpp" />
     <ClCompile Include="FindPrime.cpp" />
+    <ClCompile Include="LeftOverFinder.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
